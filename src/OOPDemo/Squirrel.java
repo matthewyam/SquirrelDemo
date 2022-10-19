@@ -11,7 +11,7 @@ public class Squirrel{
 
     //contructor
 
-    public Squirrel(String newColourString, String newSizeString, int newInt, int newNutCount, double newiqDouble){
+    public Squirrel(String newColourString, String newSizeString, int newNutCount, double newiqDouble){
         this.aliveBoolean = true;
         this.colourString = newColourString;
         this.sizeString = newSizeString;
